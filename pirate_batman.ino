@@ -83,5 +83,5 @@ void loop() {
     }
     // Wait 1 hour and 1 minute before doing anything else. Ensures sensor data is only read
     // once daily
-    delay(3600001);
+    delay(3660000);
 }
